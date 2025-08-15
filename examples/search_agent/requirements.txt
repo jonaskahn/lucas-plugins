@@ -1,0 +1,4 @@
+duckduckgo-search
+langchain-core
+langchain-community
+pyyaml
